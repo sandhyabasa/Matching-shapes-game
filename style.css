@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.drop-zone {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 2px dashed gray;
+    margin: 10px;
+}
+
+.draggable {
+    width: 100px;
+    height: 100px;
+    cursor: grab;
+}
